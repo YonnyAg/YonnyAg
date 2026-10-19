@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Yonathan Abello — creative mind, developer at work">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111023"/><stop offset="1" stop-color="#080c16"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#ae83ff"/><stop offset="1" stop-color="#64dfdf"/></linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#bda8ff" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="380" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="380" rx="22" fill="url(#grid)"/>
+<circle cx="1080" cy="65" r="180" fill="#9564ee" opacity=".07"/>
+<path d="M0 378H1200" stroke="url(#accent)" stroke-width="4"/>
+<g font-family="Consolas, monospace">
+<rect x="52" y="42" width="193" height="30" rx="15" fill="#aa85ff" fill-opacity=".10" stroke="#aa85ff" stroke-opacity=".25"/>
+<circle cx="70" cy="57" r="4" fill="#64dfdf"/><text x="84" y="62" font-size="12" fill="#cab5ff" letter-spacing="2">YONNYAG / DEV LOG</text>
+<text x="52" y="139" font-size="16" fill="#9f90bc">Hola, soy</text>
+<text x="48" y="205" font-family="Segoe UI, Arial, sans-serif" font-size="60" font-weight="700" fill="#f3efff">Yonathan Abello<tspan fill="#ae83ff">.</tspan></text>
+<text x="52" y="248" font-size="18" fill="#c6bfd7">Ideas, código y atención al detalle.</text>
+<text x="52" y="326" font-size="12" fill="#8e849f" letter-spacing="2">CHILE · REACT · DJANGO · PYTHON</text>
+</g>
+<g transform="translate(875 100)">
+<rect width="250" height="170" rx="14" fill="#141524" stroke="#675287"/>
+<path d="M0 34H250" stroke="#443654"/><circle cx="18" cy="17" r="4" fill="#ae83ff"/><circle cx="33" cy="17" r="4" fill="#cfb8ff"/><circle cx="48" cy="17" r="4" fill="#64dfdf"/>
+<g font-family="Consolas, monospace" font-size="15"><text x="20" y="68" fill="#64dfdf">~/yonny<tspan fill="#8e849f"> $ whoami</tspan></text><text x="20" y="99" fill="#eee8fc">developer &amp; curious mind</text><text x="20" y="139" fill="#ae83ff">&gt; build. learn. refine.</text></g>
+</g></svg>
