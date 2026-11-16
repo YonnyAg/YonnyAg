@@ -1,79 +1,48 @@
-<p align="center">
-  <img src="./header.svg" width="100%" alt="Yonathan Abello. Ideas, código y atención al detalle. React, Django y Python desde Chile." />
-</p>
+<p align="center"><img src="./city-night.svg" width="100%" alt="Yonathan Abello — desarrollo de software desde Chile. Una ciudad retro al anochecer." /></p>
 
 <p align="center">
-  <a href="https://github.com/YonnyAg?tab=repositories"><img src="https://img.shields.io/badge/EXPLORAR_PROYECTOS-ae83ff?style=for-the-badge&amp;logo=github&amp;logoColor=101018" alt="Explorar proyectos" /></a>
-  <a href="#mi-caja-de-herramientas"><img src="https://img.shields.io/badge/MI_STACK-141524?style=for-the-badge&amp;logo=gnometerminal&amp;logoColor=64dfdf" alt="Mi stack" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1200&amp;color=C5A0EE&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Hola%2C+soy+Yonathan+%F0%9F%91%8B;React+%C2%B7+Django+%C2%B7+Python;Ideas+que+se+convierten+en+c%C3%B3digo" width="100%" alt="Hola, soy Yonathan. React, Django y Python. Ideas que se convierten en código." />
 </p>
 
-### Un poco de mí
+## `$ whoami`
 
-Soy **Yonathan**, desarrollador de software desde Chile. Me interesa conectar interfaces con lógica de backend y explorar lo que se puede construir con **React, Django y Python**.
+<img src="./terminal-profile.svg" width="100%" alt="Soy Yonathan Abello, desarrollador desde Chile. Me interesan las interfaces, el backend y las aplicaciones web. Mi stack incluye React, Django y Python." />
 
-Este espacio reúne mis proyectos y experimentos: aplicaciones web, APIs y desafíos de lógica. Mi manera de avanzar es construir, entender lo que hago y seguir refinándolo.
-
-### Proyectos en primer plano
+## `$ cat tech-stack.yaml`
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td width="50%" valign="top">
 
-#### 01 / Personal Analytics Dashboard
+`01 / interfaces`
 
-[Explorar el repositorio ↗](https://github.com/YonnyAg/Personal-Analytics-Dashboard)
+<img src="https://skillicons.dev/icons?i=react,js&amp;theme=dark" alt="React y JavaScript" />
 
-`JavaScript` · `Dashboard`
+`React · JavaScript`
 
-</td>
-<td width="50%" valign="top">
+</td><td width="50%" valign="top">
 
-#### 02 / User Behavior Analysis API
+`02 / backend`
 
-[Explorar el repositorio ↗](https://github.com/YonnyAg/user-behavior-analysis-api)
+<img src="https://skillicons.dev/icons?i=python,django&amp;theme=dark" alt="Python y Django" />
 
-`Python` · `API`
+`Python · Django`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 03 / Sudoku React
-
-[Explorar el repositorio ↗](https://github.com/YonnyAg/Sudoku-React)
-
-`JavaScript` · `React` · `Sudoku`
-
-</td>
-<td width="50%" valign="top">
-
-#### 04 / TODO React
-
-[Explorar el repositorio ↗](https://github.com/YonnyAg/TODO-React)
-
-`JavaScript` · `React`
-
-</td>
-</tr>
+</td></tr>
 </table>
 
-### Mi caja de herramientas
+## `$ ls projects/`
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,python,django&amp;theme=dark" alt="React, JavaScript, Python y Django" />
+<a href="https://github.com/YonnyAg/Personal-Analytics-Dashboard"><img src="./project-analytics.svg" width="49%" alt="Personal Analytics Dashboard — ver repositorio JavaScript" /></a>
+<a href="https://github.com/YonnyAg/user-behavior-analysis-api"><img src="./project-behavior.svg" width="49%" alt="User Behavior Analysis API — ver repositorio Python" /></a>
+</p>
+<p>
+<a href="https://github.com/YonnyAg/Sudoku-React"><img src="./project-sudoku.svg" width="49%" alt="Sudoku React — ver repositorio" /></a>
+<a href="https://github.com/YonnyAg/TODO-React"><img src="./project-todo.svg" width="49%" alt="TODO React — ver repositorio" /></a>
 </p>
 
-<details>
-<summary><b>Detrás de los proyectos</b></summary>
+<p align="center"><a href="https://github.com/YonnyAg?tab=repositories"><img src="https://img.shields.io/badge/VER_TODOS_LOS_REPOSITORIOS-C5A0EE?style=for-the-badge&amp;logo=github&amp;logoColor=171724" alt="Ver todos los repositorios" /></a></p>
 
-Mis repositorios combinan trabajo con interfaces, Python y práctica de programación. Aquí puedes recorrer tanto los proyectos como los ejercicios que forman parte de mi aprendizaje.
+---
 
-[Ver todos los repositorios →](https://github.com/YonnyAg?tab=repositories)
-
-</details>
-
-<br />
-
-<img src="./footer.svg" width="100%" alt="Construir. Aprender. Refinar." />
-
+<p align="center"><code>Construir con intención. Aprender con cada proyecto.</code><br /><sub>Desde Chile · @YonnyAg</sub></p>
